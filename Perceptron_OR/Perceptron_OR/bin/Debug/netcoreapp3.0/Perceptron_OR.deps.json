@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Perceptron_OR/1.0.0": {
+        "runtime": {
+          "Perceptron_OR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perceptron_OR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

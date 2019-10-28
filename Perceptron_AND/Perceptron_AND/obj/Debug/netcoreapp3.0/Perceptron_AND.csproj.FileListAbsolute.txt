@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.exe
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.deps.json
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.runtimeconfig.json
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.dll
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\bin\Debug\netcoreapp3.0\Perceptron_AND.pdb
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\obj\Debug\netcoreapp3.0\Perceptron_AND.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\obj\Debug\netcoreapp3.0\Perceptron_AND.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\obj\Debug\netcoreapp3.0\Perceptron_AND.AssemblyInfo.cs
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\obj\Debug\netcoreapp3.0\Perceptron_AND.dll
+F:\GitHub\DeepLearning\Perceptron_AND\Perceptron_AND\obj\Debug\netcoreapp3.0\Perceptron_AND.pdb

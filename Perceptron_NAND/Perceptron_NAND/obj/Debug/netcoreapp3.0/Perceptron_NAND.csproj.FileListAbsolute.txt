@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.exe
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.deps.json
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.runtimeconfig.json
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.dll
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\bin\Debug\netcoreapp3.0\Perceptron_NAND.pdb
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\obj\Debug\netcoreapp3.0\Perceptron_NAND.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\obj\Debug\netcoreapp3.0\Perceptron_NAND.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\obj\Debug\netcoreapp3.0\Perceptron_NAND.AssemblyInfo.cs
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\obj\Debug\netcoreapp3.0\Perceptron_NAND.dll
+F:\GitHub\DeepLearning\Perceptron_NAND\Perceptron_NAND\obj\Debug\netcoreapp3.0\Perceptron_NAND.pdb
