@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.exe
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.deps.json
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.runtimeconfig.json
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.dll
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\bin\Debug\netcoreapp3.0\MLP_XOR.pdb
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\obj\Debug\netcoreapp3.0\MLP_XOR.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\obj\Debug\netcoreapp3.0\MLP_XOR.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\obj\Debug\netcoreapp3.0\MLP_XOR.AssemblyInfo.cs
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\obj\Debug\netcoreapp3.0\MLP_XOR.dll
+F:\GitHub\DeepLearning\MLP_XOR\MLP_XOR\obj\Debug\netcoreapp3.0\MLP_XOR.pdb

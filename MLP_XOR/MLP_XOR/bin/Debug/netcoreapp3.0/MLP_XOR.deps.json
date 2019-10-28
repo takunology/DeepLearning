@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MLP_XOR/1.0.0": {
+        "runtime": {
+          "MLP_XOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLP_XOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
