@@ -1,0 +1,22 @@
+﻿<Window x:Class="ActivationFunctionGraphs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ActivationFunctionGraphs"
+        xmlns:wfc="clr-namespace:System.Windows.Forms.DataVisualization.Charting;assembly=System.Windows.Forms.DataVisualization"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="ステップ関数" HorizontalAlignment="Left" Margin="600,50,0,0" VerticalAlignment="Top" Width="100" Click="Button_Step" Height="30"/>
+        <Button Content="シグモイド関数" HorizontalAlignment="Left" Margin="600,100,0,0" VerticalAlignment="Top" Width="100" Click="Button_Sigmoid" Height="30"/>
+        <Button Content="ReLU関数" HorizontalAlignment="Left" Margin="600,150,0,0" VerticalAlignment="Top" Width="100" Click="Button_Relu" Height="30"/>
+        <Grid HorizontalAlignment="Left" Height="340" Margin="56,45,0,0" VerticalAlignment="Top" Width="430" Name="GraphArea">
+            <WindowsFormsHost>
+                <wfc:Chart Name="Graph"/>
+            </WindowsFormsHost>
+        </Grid>
+    </Grid>
+    
+
+</Window>

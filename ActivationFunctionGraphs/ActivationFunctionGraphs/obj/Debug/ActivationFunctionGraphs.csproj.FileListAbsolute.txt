@@ -1,0 +1,14 @@
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\App.g.cs
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs_MarkupCompile.cache
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\MainWindow.g.cs
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs_MarkupCompile.lref
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\bin\Debug\ActivationFunctionGraphs.exe.config
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\bin\Debug\ActivationFunctionGraphs.exe
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\bin\Debug\ActivationFunctionGraphs.pdb
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\MainWindow.baml
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.g.resources
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.Properties.Resources.resources
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.csproj.GenerateResource.cache
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.exe
+F:\GitHub\DeepLearning\ActivationFunctionGraphs\ActivationFunctionGraphs\obj\Debug\ActivationFunctionGraphs.pdb
