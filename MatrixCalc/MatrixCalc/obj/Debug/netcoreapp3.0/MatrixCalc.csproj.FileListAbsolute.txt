@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.exe
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.deps.json
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.runtimeconfig.json
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.dll
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\bin\Debug\netcoreapp3.0\MatrixCalc.pdb
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.0\MatrixCalc.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.0\MatrixCalc.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.0\MatrixCalc.AssemblyInfo.cs
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.0\MatrixCalc.dll
+F:\GitHub\DeepLearning\MatrixCalc\MatrixCalc\obj\Debug\netcoreapp3.0\MatrixCalc.pdb
