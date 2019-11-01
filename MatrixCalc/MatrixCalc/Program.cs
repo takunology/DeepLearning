@@ -73,7 +73,7 @@ namespace MatrixCalc
 
             //積の和
             Console.WriteLine("\nAB = ");
-            double[,] matrixC = new double[Ay, Bx];
+            double[,] matrixC = new double[Ax, By];
 
             for (int x = 0; x < Ax; x++)
             {
@@ -89,12 +89,13 @@ namespace MatrixCalc
             //計算結果の表示
             for (int x = 0; x < Ax; x++)
             {
-                Console.Write("| ");
+                Console.Write("|");
                 for (int y = 0; y < By; y++)
                 {
-                    Console.Write($"{matrixC[x, y]} ");
+                    //Console.Write($"{matrixC[x, y]} ");
+                    Console.Write(string.Format("{0,4}", matrixC[x, y]));
                 }
-                Console.WriteLine("|");
+                Console.WriteLine(" |");
             }
             Console.ReadKey();
             return;
