@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.exe
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.deps.json
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.runtimeconfig.json
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.dll
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\bin\Debug\netcoreapp3.0\3NN_NotLearningCLI.pdb
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\obj\Debug\netcoreapp3.0\3NN_NotLearningCLI.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\obj\Debug\netcoreapp3.0\3NN_NotLearningCLI.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\obj\Debug\netcoreapp3.0\3NN_NotLearningCLI.AssemblyInfo.cs
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\obj\Debug\netcoreapp3.0\3NN_NotLearningCLI.dll
+F:\GitHub\DeepLearning\3NN_NotLearningCLI\3NN_NotLearningCLI\obj\Debug\netcoreapp3.0\3NN_NotLearningCLI.pdb
