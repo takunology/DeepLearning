@@ -13,8 +13,6 @@ namespace _3NN_NotLearningCLI
         public double[,] MatrixB = new double[Bx, By];
         public double[,] MatrixC = new double[Ax, By];
         public double[,] MatrixD = new double[Ax, Ay];
-
-        bool f = false; //隠れ層行列計算のフラグ
         
         //行列計算（層ごとに更新
         public void InputMatrix(int x, int y)
@@ -27,7 +25,6 @@ namespace _3NN_NotLearningCLI
             {
                 for (int j = 0; j < Ay; j++)
                 {
-                    //MatrixA[i, j] = double.Parse(rndX.Next(0, 3).ToString());
                     Console.Write($"{i + 1}行{j + 1}列の要素：");
                     MatrixA[i, j] = double.Parse(Console.ReadLine());
                 }
@@ -40,10 +37,11 @@ namespace _3NN_NotLearningCLI
                 Console.Write("|");
                 for (int j = 0; j < Ay; j++)
                 {
-                    Console.Write(string.Format("{0,4}", MatrixA[i, j]));
+                    Console.Write(string.Format("{0,4} ", MatrixA[i, j]));
                 }
                 Console.WriteLine(" |");
             }
+            Console.WriteLine($"\nAx:{Ax}, Ay:{Ay}, Bx:{Bx}, By:{By}");
 #endif
         }
 
@@ -52,12 +50,15 @@ namespace _3NN_NotLearningCLI
             Bx = x;
             By = y;
             MatrixB = new double[Bx, By];
+            double Val = 0;
             Random rndY = new Random();
             for (int i = 0; i < Bx; i++)
             {
                 for (int j = 0; j < By; j++)
                 {
-                    MatrixB[i, j] = double.Parse(rndY.Next(0, 4).ToString());
+                    Val = double.Parse(rndY.Next(0, 4000).ToString());
+                    Val = double.Parse(((Val - 2000) / 1000).ToString());
+                    MatrixB[i, j] = Val;
                 }
             }
 #if DEBUG
@@ -67,10 +68,11 @@ namespace _3NN_NotLearningCLI
                 Console.Write("|");
                 for (int j = 0; j < By; j++)
                 {
-                    Console.Write(string.Format("{0,4}", MatrixB[i, j]));
+                    Console.Write(string.Format("{0,8} ", MatrixB[i, j]));
                 }
                 Console.WriteLine(" |");
             }
+            Console.WriteLine($"\nAx:{Ax}, Ay:{Ay}, Bx:{Bx}, By:{By}");
 #endif
         }
 
@@ -87,7 +89,6 @@ namespace _3NN_NotLearningCLI
                     }
                 }
             }
-            f = true; //1層目の計算終了フラグ
 #if DEBUG
             Console.WriteLine("\n一層目終了");
             for (int i = 0; i < Ax; i++)
@@ -95,16 +96,19 @@ namespace _3NN_NotLearningCLI
                 Console.Write("|");
                 for (int j = 0; j < By; j++)
                 {
-                    Console.Write(string.Format("{0,4}", MatrixC[i, j]));
+                    Console.Write(string.Format("{0,8} ", MatrixC[i, j]));
                 }
                 Console.WriteLine(" |");
             }
+            Console.WriteLine($"\nAx:{Ax}, Ay:{Ay}, Bx:{Bx}, By:{By}");
 #endif
         }
 
-        public void MatrixCalc() //第二層以降の行列計算
+        public void SecondMatrixCalc() //第二層目の行列計算
         {
-            MatrixD = new double[Ax, By];
+            Ax = MatrixC.GetLength(0);
+            Ay = MatrixC.GetLength(1);
+            MatrixD = new double[Ax, Bx];
             for (int i = 0; i < Ax; i++)
             {
                 for (int j = 0; j < By; j++)
@@ -112,7 +116,9 @@ namespace _3NN_NotLearningCLI
                     for (int k = 0; k < Ay; k++) //共通要素数は k で変数を分けて考える
                     {
                         MatrixD[i, j] += (MatrixC[i, k] * MatrixB[k, j]);
+                        Console.Write($"{MatrixC[i, k] * MatrixB[k, j]} + ");
                     }
+                    Console.WriteLine();
                 }
             }
 #if DEBUG
@@ -122,11 +128,11 @@ namespace _3NN_NotLearningCLI
                 Console.Write("|");
                 for (int j = 0; j < By; j++)
                 {
-                    Console.Write(string.Format("{0,4}", MatrixD[i, j]));
+                    Console.Write(string.Format("{0,8} ", MatrixD[i, j]));
                 }
                 Console.WriteLine(" |");
-                Console.Write($"\nAx:{Ax}, Ay:{Ay}, Bx:{Bx}, By:{By}");
             }
+            Console.Write($"\nAx:{Ax}, Ay:{Ay}, Bx:{Bx}, By:{By}");
 #endif
         }
 

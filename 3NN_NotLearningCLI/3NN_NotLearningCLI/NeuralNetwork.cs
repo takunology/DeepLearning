@@ -24,17 +24,16 @@ namespace _3NN_NotLearningCLI
             y = int.Parse(Console.ReadLine());
 
             WeightMatrix(x, y); //重みの行列
-            FirstMatrixCalc(); //行列ABの解C
+            FirstMatrixCalc(); //第一層目の行列積
         }
 
         public void HideLayerNext() //2層以降の隠れ層
         {
-            //x = MatrixC.GetLength(1); //計算した行数の列数を共通数に
             x = y;
             Console.Write("\n隠れ層のニューロンの数：");
             y = int.Parse(Console.ReadLine());
             WeightMatrix(x, y); //重みの行列
-            MatrixCalc();
+            SecondMatrixCalc(); //第二層目の行列積
         }
 
         public void OutputLayer()
