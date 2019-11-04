@@ -83,7 +83,7 @@ namespace _3NN_NotLearning //アプリ版
             };
 
             int Hide1X = 2, Hide1Y = 3; //隠れ層 1
-            double[,] HideMatrix1 = new double[Hide1X,Hide1Y];
+            double[,] HideMatrix1 = new double[Hide1X, Hide1Y];
             for(int i = 0; i < Hide1X; i++)
             {
                 for(int j = 0; j < Hide1Y; j++)
