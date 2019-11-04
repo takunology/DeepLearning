@@ -7,11 +7,13 @@ namespace _3NN_NotLearningCLI
         static void Main(string[] args)
         {           
             Console.WriteLine("3 Level NeuralNetwork Forward only.");
-            NeuralNetwork nw = new NeuralNetwork();
-            nw.InputLayer(); //入力層
-            nw.HideLayer(); //隠れ層第一層
-            nw.HideLayerNext(); //隠れ層第二層
             
+            NeuralNetwork NN = new NeuralNetwork();
+            
+            NN.InputLayer(); //入力層
+            NN.FirstHideLayer(); //隠れ層第一層
+            NN.SecondHideLayer(); //隠れ層第二層
+            NN.OutputLayer(); //出力層
         }
     }
 }

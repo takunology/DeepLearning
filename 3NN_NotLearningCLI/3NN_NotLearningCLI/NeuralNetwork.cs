@@ -17,28 +17,31 @@ namespace _3NN_NotLearningCLI
             //1行y列の行列
         }
 
-        public void HideLayer() //1層目の隠れ層
+        public void FirstHideLayer() //1層目の隠れ層
         {
             x = y; //共通数
-            Console.Write("\n隠れ層のニューロンの数：");
+            Console.Write("\n隠れ層（第一層）のニューロンの数：");
             y = int.Parse(Console.ReadLine());
-
             WeightMatrix(x, y); //重みの行列
-            FirstMatrixCalc(); //第一層目の行列積
+            FirstHideCalc(); //第一層目の行列積
         }
 
-        public void HideLayerNext() //2層以降の隠れ層
+        public void SecondHideLayer() //2層以降の隠れ層
         {
             x = y;
-            Console.Write("\n隠れ層のニューロンの数：");
+            Console.Write("\n隠れ層（第二層）のニューロンの数：");
             y = int.Parse(Console.ReadLine());
             WeightMatrix(x, y); //重みの行列
-            SecondMatrixCalc(); //第二層目の行列積
+            SecondHideCalc(); //第二層目の行列積
         }
 
         public void OutputLayer()
         {
-
+            x = y;
+            Console.Write("\n出力層のニューロンの数：");
+            y = int.Parse(Console.ReadLine());
+            WeightMatrix(x, y); //重みの行列
+            OutPut();
         }
     }
 }
