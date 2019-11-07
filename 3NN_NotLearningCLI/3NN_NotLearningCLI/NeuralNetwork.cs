@@ -6,7 +6,7 @@ namespace _3NN_NotLearningCLI
 {
     public class NeuralNetwork : Matrix
     {
-        int x = 0, y = 0;
+        public int x = 0, y = 0;
         public void InputLayer() //入力層は行列Aだけ作る
         {
             x = 1; //入力行列の固定値
