@@ -31,5 +31,13 @@ namespace _3NN_NotLearningCLI
         {
             return x;
         }
+
+        public double Softmax(double sum, double value)
+        {
+            // sum 入力値の合計
+            // value その層の値
+            double Result = (Math.Exp(value) / Math.Exp(sum));
+            return Result;
+        }
     }
 }

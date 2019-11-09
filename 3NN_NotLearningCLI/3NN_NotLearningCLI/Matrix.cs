@@ -8,11 +8,13 @@ namespace _3NN_NotLearningCLI
     {
         static int Ax = 0, Ay = 0;
         static int Bx = 0, By = 0;
+        public double R = 0;
 
         public double[,] MatrixA = new double[Ax, Ay]; //入力層行列
         public double[,] MatrixB = new double[Bx, By]; //重み行列（再利用）
         public double[,] MatrixC = new double[Ax, By]; //第一層の行列積
         public double[,] MatrixD = new double[Ax, Ay]; //第二層の行列積
+        public double[] OutPutValue = new double[0]; //出力層に入力される値
         
         //行列計算（層ごとに更新
         public void InputMatrix(int x, int y)
@@ -143,34 +145,36 @@ namespace _3NN_NotLearningCLI
 #endif
         }
 
-        public void LastLayerCalc() //出力層の行列計算
+        public void LastLayerCalc(int y) //出力層の行列計算
         {
+            double Sum = 0;
             Ax = MatrixD.GetLength(0);
             Ay = MatrixD.GetLength(1);
-            MatrixC = new double[Ax, Bx];
+            MatrixC = new double[Ax, Ay];
+
             for (int i = 0; i < Ax; i++)
             {
-                for (int j = 0; j < By; j++)
+                for (int j = 0; j < Ay; j++) 
                 {
-                    for (int k = 0; k < Ay; k++)
-                    {
-                        MatrixC[i, j] += (MatrixD[i, k] * MatrixB[k, j]);
-#if DEBUG
-                        //Console.Write($"{MatrixD[i, k] * MatrixB[k, j]}");
-#endif
-                    }
-#if DEBUG
-                    //Console.Write(" + ");
-                    //Console.WriteLine();
-#endif
-                    MatrixC[i, j] = Sigmoid(MatrixC[i, j]);
+                    Sum += MatrixD[i, j]; //二層目からの入力合計
                 }
             }
+            //Console.WriteLine(Sum);
+            // ソフトマックス or 恒等関数 を適用する
+            for (int i = 0; i < Ax; i++)
+            {
+                for (int j = 0; j < Ay; j++)
+                {
+                    MatrixC[i, j] = Softmax(Sum, MatrixD[i, j]);
+                    R += MatrixC[i, j];
+                }
+            }
+            Console.WriteLine(R);
 #if DEBUG
             for (int i = 0; i < Ax; i++)
             {
                 Console.Write("| ");
-                for (int j = 0; j < By; j++)
+                for (int j = 0; j < Ay; j++)
                 {
                     Console.Write(string.Format("{0,8} ", MatrixC[i, j]));
                 }
@@ -184,7 +188,7 @@ namespace _3NN_NotLearningCLI
         {
             for (int i = 0; i < Ax; i++)
             {
-                for (int j = 0; j < By; j++)
+                for (int j = 0; j < Ay; j++)
                 {
                     Console.Write($"\n最終出力{j + 1}：");
                     Console.Write(string.Format("{0,8}", MatrixC[i, j]));

@@ -40,7 +40,7 @@ namespace _3NN_NotLearningCLI
             x = y;
             Console.Write("\n出力層のニューロンの数：");
             y = int.Parse(Console.ReadLine());
-            WeightMatrix(x, y); //重みの行列
+            LastLayerCalc(y); //出力層の最後
             OutPut();
         }
     }

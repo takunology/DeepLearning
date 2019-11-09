@@ -10,6 +10,7 @@ namespace _3NN_NotLearningCLI
             Console.WriteLine("3 Level NeuralNetwork Forward only.");
             
             NeuralNetwork NN = new NeuralNetwork();
+            Matrix  matrix = new Matrix();
 
 #if DEBUG
             var sw = new Stopwatch();
