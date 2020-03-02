@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.exe
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.dll
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\bin\Debug\netcoreapp3.0\2NN_ForwardOnly.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\obj\Debug\netcoreapp3.0\2NN_ForwardOnly.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\obj\Debug\netcoreapp3.0\2NN_ForwardOnly.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\obj\Debug\netcoreapp3.0\2NN_ForwardOnly.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\obj\Debug\netcoreapp3.0\2NN_ForwardOnly.dll
+F:\GitHub\DeepLearning\NeuralNetwork\2NN_ForwardOnly\obj\Debug\netcoreapp3.0\2NN_ForwardOnly.pdb
