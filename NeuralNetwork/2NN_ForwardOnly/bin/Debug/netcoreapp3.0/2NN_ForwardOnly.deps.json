@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "2NN_ForwardOnly/1.0.0": {
+        "runtime": {
+          "2NN_ForwardOnly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2NN_ForwardOnly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
