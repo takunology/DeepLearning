@@ -1,0 +1,10 @@
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.exe
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.dll
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\Softmax.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\Softmax.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\Softmax.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\Softmax.dll
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\Softmax.pdb

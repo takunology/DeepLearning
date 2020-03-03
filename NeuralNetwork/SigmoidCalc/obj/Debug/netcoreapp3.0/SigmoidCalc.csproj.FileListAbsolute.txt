@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.exe
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.dll
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\bin\Debug\netcoreapp3.0\SigmoidCalc.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\SigmoidCalc.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\SigmoidCalc.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\SigmoidCalc.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\SigmoidCalc.dll
+F:\GitHub\DeepLearning\NeuralNetwork\SigmoidCalc\obj\Debug\netcoreapp3.0\SigmoidCalc.pdb
