@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.exe
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\bin\Debug\netcoreapp3.0\3NN_ForwoardOnly.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\obj\Debug\netcoreapp3.0\3NN_ForwoardOnly.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\obj\Debug\netcoreapp3.0\3NN_ForwoardOnly.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\obj\Debug\netcoreapp3.0\3NN_ForwoardOnly.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\obj\Debug\netcoreapp3.0\3NN_ForwoardOnly.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwoardOnly\obj\Debug\netcoreapp3.0\3NN_ForwoardOnly.pdb

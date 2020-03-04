@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2NN_ForwardOnly", "2NN_ForwardOnly\2NN_ForwardOnly.csproj", "{C621D38C-591C-41FD-8822-98FE445C4603}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2NN_ForwardOnly", "2NN_ForwardOnly\2NN_ForwardOnly.csproj", "{C621D38C-591C-41FD-8822-98FE445C4603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_ForwoardOnly", "3NN_ForwoardOnly\3NN_ForwoardOnly.csproj", "{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_ForwardOnly_SoftMax", "3NN_ForwardOnly_SoftMax\3NN_ForwardOnly_SoftMax.csproj", "{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softmax", "SigmoidCalc\Softmax.csproj", "{BE41E9EA-366F-49B4-A54C-43E7A1857853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{C621D38C-591C-41FD-8822-98FE445C4603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C621D38C-591C-41FD-8822-98FE445C4603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C621D38C-591C-41FD-8822-98FE445C4603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

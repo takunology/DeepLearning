@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.exe
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\bin\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\obj\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\obj\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\obj\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\obj\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_ForwardOnly_SoftMax\obj\Debug\netcoreapp3.0\3NN_ForwardOnly_SoftMax.pdb
