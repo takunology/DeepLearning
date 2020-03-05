@@ -1,0 +1,10 @@
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.exe
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.dll
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\bin\Debug\netcoreapp3.0\ReadData.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.dll
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.pdb

@@ -5,11 +5,17 @@ VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2NN_ForwardOnly", "2NN_ForwardOnly\2NN_ForwardOnly.csproj", "{C621D38C-591C-41FD-8822-98FE445C4603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_ForwoardOnly", "3NN_ForwoardOnly\3NN_ForwoardOnly.csproj", "{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3NN_ForwoardOnly", "3NN_ForwoardOnly\3NN_ForwoardOnly.csproj", "{0CC9C013-96DB-4A14-BA06-2B8FD5F0D327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_ForwardOnly_SoftMax", "3NN_ForwardOnly_SoftMax\3NN_ForwardOnly_SoftMax.csproj", "{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3NN_ForwardOnly_SoftMax", "3NN_ForwardOnly_SoftMax\3NN_ForwardOnly_SoftMax.csproj", "{61CFDA99-C4E5-4A73-85EB-9749D5D5243F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softmax", "SigmoidCalc\Softmax.csproj", "{BE41E9EA-366F-49B4-A54C-43E7A1857853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softmax", "SigmoidCalc\Softmax.csproj", "{BE41E9EA-366F-49B4-A54C-43E7A1857853}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JpegToData", "JpegToData\JpegToData.csproj", "{152699DC-C10D-48BE-A190-CD783FD320C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadData", "ReadData\ReadData.csproj", "{CE354858-D582-4B1C-93EE-C3103A519FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_FO_SM_MSE", "3NN_FO_SM_MSE\3NN_FO_SM_MSE.csproj", "{2D8E1885-1E73-4742-B640-0B148E1D521D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE41E9EA-366F-49B4-A54C-43E7A1857853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152699DC-C10D-48BE-A190-CD783FD320C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152699DC-C10D-48BE-A190-CD783FD320C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152699DC-C10D-48BE-A190-CD783FD320C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152699DC-C10D-48BE-A190-CD783FD320C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE354858-D582-4B1C-93EE-C3103A519FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE354858-D582-4B1C-93EE-C3103A519FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE354858-D582-4B1C-93EE-C3103A519FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE354858-D582-4B1C-93EE-C3103A519FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

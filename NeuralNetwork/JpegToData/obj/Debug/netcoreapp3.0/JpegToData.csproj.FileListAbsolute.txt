@@ -1,0 +1,17 @@
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.exe
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\JpegToData.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.csproj.CopyComplete
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.dll
+F:\GitHub\DeepLearning\NeuralNetwork\JpegToData\obj\Debug\netcoreapp3.0\JpegToData.pdb

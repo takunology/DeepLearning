@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.exe
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\bin\Debug\netcoreapp3.0\3NN_FO_SM_MSE.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\obj\Debug\netcoreapp3.0\3NN_FO_SM_MSE.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\obj\Debug\netcoreapp3.0\3NN_FO_SM_MSE.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\obj\Debug\netcoreapp3.0\3NN_FO_SM_MSE.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\obj\Debug\netcoreapp3.0\3NN_FO_SM_MSE.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_FO_SM_MSE\obj\Debug\netcoreapp3.0\3NN_FO_SM_MSE.csprojAssemblyReference.cache
