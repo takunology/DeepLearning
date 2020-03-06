@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\DeepLearning\\NeuralNetwork\\3NN_FO_SM_MSE\\3NN_FO_SM_MSE.csproj",
-      "projectName": "3NN_FO_SM_MSE",
-      "projectPath": "F:\\GitHub\\DeepLearning\\NeuralNetwork\\3NN_FO_SM_MSE\\3NN_FO_SM_MSE.csproj",
+      "projectUniqueName": "F:\\GitHub\\DeepLearning\\NeuralNetwork\\3NN_FO_SM_MSE\\3NN_FO_SM_MSECEE.csproj",
+      "projectName": "3NN_FO_SM_MSECEE",
+      "projectPath": "F:\\GitHub\\DeepLearning\\NeuralNetwork\\3NN_FO_SM_MSE\\3NN_FO_SM_MSECEE.csproj",
       "packagesPath": "C:\\Users\\takun\\.nuget\\packages\\",
       "outputPath": "F:\\GitHub\\DeepLearning\\NeuralNetwork\\3NN_FO_SM_MSE\\obj\\",
       "projectStyle": "PackageReference",

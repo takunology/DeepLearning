@@ -2,13 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _3NN_FO_SM_MSE
+namespace _3NN_FO_SM_MSECEE
 {
     //データ保持用クラス
     public class MatrixData
     {
         //レイヤ―数カウンタ
         static public int LayerCount = 0;
+
+        //損失値
+        static public double ErrorValue = 0;
 
         //行列サイズ
         static public int ROW_IN = 1;

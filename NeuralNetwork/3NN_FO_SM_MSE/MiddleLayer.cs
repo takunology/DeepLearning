@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _3NN_FO_SM_MSE
+namespace _3NN_FO_SM_MSECEE
 {
     class MiddleLayer : MatrixData
     {

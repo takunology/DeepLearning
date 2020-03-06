@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace _3NN_FO_SM_MSE
+namespace _3NN_FO_SM_MSECEE
 {
-    class Program
+    class Program : MatrixData
     {
         static void Main(string[] args)
         {           
@@ -27,8 +27,7 @@ namespace _3NN_FO_SM_MSE
             _ = new OutputLayer(Sample);//Neuron列として初期化
 
             //二乗和誤差による損失計算
-            _ = new CheckLabel(); 
-
+            _ = new CheckLabel();
 
             Console.ReadKey();
         }
