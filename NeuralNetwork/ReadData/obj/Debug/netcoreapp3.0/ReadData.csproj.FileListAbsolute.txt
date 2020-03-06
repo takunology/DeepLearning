@@ -8,3 +8,4 @@ F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.A
 F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.AssemblyInfo.cs
 F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.dll
 F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\ReadData\obj\Debug\netcoreapp3.0\ReadData.csprojAssemblyReference.cache

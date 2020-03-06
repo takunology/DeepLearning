@@ -1,0 +1,11 @@
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\obj\Debug\netcoreapp3.0\3NN_Minibatch.csprojAssemblyReference.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\obj\Debug\netcoreapp3.0\3NN_Minibatch.AssemblyInfoInputs.cache
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\obj\Debug\netcoreapp3.0\3NN_Minibatch.AssemblyInfo.cs
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.exe
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.deps.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.runtimeconfig.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.runtimeconfig.dev.json
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\bin\Debug\netcoreapp3.0\3NN_Minibatch.pdb
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\obj\Debug\netcoreapp3.0\3NN_Minibatch.dll
+F:\GitHub\DeepLearning\NeuralNetwork\3NN_Minibatch\obj\Debug\netcoreapp3.0\3NN_Minibatch.pdb

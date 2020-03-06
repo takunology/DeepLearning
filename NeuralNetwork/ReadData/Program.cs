@@ -19,7 +19,7 @@ namespace ReadData
 
         static void OpenFile()
         {
-            string FilePath = "../../../../JpegToData/data/0/0.txt";
+            string FilePath = "../../../../JpegToData/data/2/20.txt";
             StreamReader streamReader = new StreamReader(FilePath);
 
             string str = streamReader.ReadToEnd(); //末尾まで読み込む
@@ -31,6 +31,22 @@ namespace ReadData
                 InputData[i] = double.Parse(tmpdata[i]);
             }
 
+            for(int i = 0; i < tmpdata.Length; i++)
+            {
+                if (i % 32 == 0)
+                {
+                    Console.WriteLine();
+                }
+
+                if (InputData[i] < 1)
+                {
+                    Console.Write("■");
+                }
+                else
+                {
+                    Console.Write("□");
+                }
+            }
             streamReader.Close(); //ファイルを閉じる
         }
     }

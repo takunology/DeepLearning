@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadData", "ReadData\ReadDa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3NN_FO_SM_MSECEE", "3NN_FO_SM_MSE\3NN_FO_SM_MSECEE.csproj", "{2D8E1885-1E73-4742-B640-0B148E1D521D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NN_Minibatch", "3NN_Minibatch\3NN_Minibatch.csproj", "{09AD0080-639B-4F08-82EE-905A3A956D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D8E1885-1E73-4742-B640-0B148E1D521D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09AD0080-639B-4F08-82EE-905A3A956D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AD0080-639B-4F08-82EE-905A3A956D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AD0080-639B-4F08-82EE-905A3A956D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AD0080-639B-4F08-82EE-905A3A956D08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

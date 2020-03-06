@@ -53,7 +53,7 @@ namespace _3NN_FO_SM_MSECEE
             double sum = 0;
             for(int i = 0; i < OutputMatrix.GetLength(1); i++)
             {
-                sum += AnsLabel[i] * Math.Log10(OutputMatrix[0, i]);
+                sum += AnsLabel[i] * Math.Log(OutputMatrix[0, i]);
             }
             ErrorValue = sum * (-1);
             Console.WriteLine($"正解ラベル : {Answer} => 損失度：{ErrorValue}");

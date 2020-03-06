@@ -16,26 +16,33 @@ namespace JpegToData
         {
             Console.WriteLine("Get Brihtness.");
 
-            GetData();
-            WriteToFile();
+            int label = 2; //2の手書き数字を変換する
+            int num = 100; //手書き数字の枚数
+
+            for(int i = 1; i <= num; i++)
+            {
+                GetData(label, i);
+                WriteToFile(label, i);
+                Console.WriteLine($"File {i}.txt Created.");
+            }
 
             Console.WriteLine("Finish.");
 #if DEBUG
-            for (int i = 0; i < Height; i++)
+            /*for (int i = 0; i < Height; i++)
             {
                 for (int j = 0; j < Width; j++)
                 {
                     Console.Write($"{JpegData[i, j]}"+"\t");
                 }
                 Console.WriteLine();
-            }
+            }*/
 #endif
         }
 
-        static void GetData()
+        static void GetData(int label, int num)
         {
             
-            FilePath = "../../../training/0/zero01.jpg";
+            FilePath = $"../../../training/{label.ToString()}/two{num.ToString()}.jpg";
             Bitmap bitmap = new Bitmap(FilePath);
 
             Width = bitmap.Width;
@@ -53,11 +60,11 @@ namespace JpegToData
             }
         }
 
-        static void WriteToFile()
+        static void WriteToFile(int label, int num)
         {
             Encoding encode = Encoding.GetEncoding("utf-8");
-            FilePath = "../../../data/0/0.txt";
-            Directory.CreateDirectory("../../../data/0");
+            FilePath = $"../../../data/{label.ToString()}/{num.ToString()}.txt";
+            Directory.CreateDirectory("../../../data/2");
 
             StreamWriter streamWriter = new StreamWriter(FilePath, false, encode);
 
@@ -65,9 +72,16 @@ namespace JpegToData
             {
                 for (int j = 0; j < Width; j++)
                 {
-                    streamWriter.Write($"{JpegData[i, j]},");
+                    if (i == 31 && j == 31)
+                    {
+                        streamWriter.Write($"{JpegData[i, j]}");
+                        break;
+                    }
+                    streamWriter.Write($"{JpegData[i, j]},");     
                 }
             }
+
+            streamWriter.Close();
         }
     }
 }
